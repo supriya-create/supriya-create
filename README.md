@@ -17,7 +17,7 @@ Currently, I'm focused on improving my Data Structures & Algorithms skills while
 - C++
 - JavaScript
 
-Some of my favorite projects are **DSAForge**, **LifeDrop**, **Etène**, and my personal portfolio.
+Some of my favorite projects are **DSAForge**, **LifeDrop**, **Eterné**, and my personal portfolio.
 
 I'm always learning, building, and looking for opportunities to grow as a software developer.
 
